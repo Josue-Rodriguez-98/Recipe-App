@@ -14,7 +14,7 @@ Also, as a little gift for my girlfriend. -Josué
 
 ```bash
 git clone https://github.com/Josue-Rodriguez-98/Recipe-App
-cd Repo
+cd Recipe-App
 npm install
 ```
 
