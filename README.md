@@ -24,4 +24,4 @@ This project is getting upgrades in my free time if there is a problem please cr
 
 ## License
 
-- Licensed under [Repo's Licence](https://github.com/Josue-Rodriguez-98/Recipe-App/blob/master/LICENSE)
+- Licensed under [GNU GPLv3](https://github.com/Josue-Rodriguez-98/Recipe-App/blob/master/LICENSE)
