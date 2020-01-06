@@ -13,7 +13,7 @@ class Home extends PureComponent {
     return (
       <HeaderLayout>
         <Container fluid>
-          <p>wenas</p>
+          <p>Wenas desde el home</p>
         </Container>
       </HeaderLayout>
     );

@@ -9,3 +9,37 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
+
+.error-page {
+  margin: 100px 0 40px;
+  text-align: center;
+}
+
+.error-page__header-image {
+  width: 25%;
+}
+
+.error-page__title {
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 31px;
+}
+
+.error-page__link {
+  color: black;
+}
+
+.error-page__link:hover {
+  text-decoration: none;
+}
+
+.volver {
+  padding: 10px;
+  color: white;
+  background-color: cornflowerblue;
+  border-radius: 10%;
+}
+
+.volver:hover {
+  text-decoration: none;
+  color: white;
+}
