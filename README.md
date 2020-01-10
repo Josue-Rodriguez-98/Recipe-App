@@ -1,6 +1,6 @@
 # Recipe Storing Application made with :heart:,:coffee: and some :beer:
 
-![License](https://img.shields.io/github/license/Josue-Rodriguez-98/Recipe-App.svg) ![Issues](https://img.shields.io/github/issues/Josue-Rodriguez-98/Recipe-App.svg) ![forks](https://img.shields.io/github/forks/Josue-Rodriguez-98/Recipe-App) ![stars](https://img.shields.io/github/stars/Josue-Rodriguez-98/Recipe-App) ![size](https://img.shields.io/github/repo-size/Josue-Rodriguez-98/Recipe-App)
+![License](https://img.shields.io/github/license/Josue-Rodriguez-98/Recipe-App.svg) ![Issues](https://img.shields.io/github/issues/Josue-Rodriguez-98/Recipe-App.svg) ![forks](https://img.shields.io/github/forks/Josue-Rodriguez-98/Recipe-App) ![stars](https://img.shields.io/github/stars/Josue-Rodriguez-98/Recipe-App) ![size](https://img.shields.io/github/repo-size/Josue-Rodriguez-98/Recipe-App) ![Unicorn](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/unicorn.svg)
 
 A simple app created for storing cooking recipes.
 
